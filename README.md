@@ -1,1 +1,1 @@
-# go
+# go concurrency example
